@@ -1,0 +1,737 @@
+[
+ {
+   "state": "AK",
+   "total": 7346,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "AL",
+   "total": 371735,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "AR",
+   "total": 133144,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "AZ",
+   "total": 249916,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "CA",
+   "total": 1174829,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "CO",
+   "total": 0,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "CT",
+   "total": 123367,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "DE",
+   "total": 42472,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "FL",
+   "total": 1077221,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "GA",
+   "total": 501707,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "HI",
+   "total": 5677,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "IA",
+   "total": 45419,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "ID",
+   "total": 62478,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "IL",
+   "total": 551464,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "IN",
+   "total": 590460,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "KS",
+   "total": 17062,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "KY",
+   "total": 82493,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "LA",
+   "total": 124818,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "MA",
+   "total": 311313,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "MD",
+   "total": 236623,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "ME",
+   "total": 0,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "MI",
+   "total": 483751,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "MO",
+   "total": 382093,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "MS",
+   "total": 191755,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "MT",
+   "total": 114056,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "NC",
+   "total": 458151,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "ND",
+   "total": 0,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "NE",
+   "total": 121287,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "NH",
+   "total": 100406,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "NJ",
+   "total": 356697,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "NM",
+   "total": 73530,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "NV",
+   "total": 34531,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "NY",
+   "total": 524932,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "OH",
+   "total": 727585,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "OK",
+   "total": 130141,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "OR",
+   "total": 240804,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "PA",
+   "total": 892702,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "RI",
+   "total": 39059,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "SC",
+   "total": 239851,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "SD",
+   "total": 44866,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "TN",
+   "total": 332702,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "TX",
+   "total": 757618,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "UT",
+   "total": 24864,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "VA",
+   "total": 355960,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "VT",
+   "total": 19968,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "WA",
+   "total": 403003,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "WI",
+   "total": 386370,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "WV",
+   "total": 156245,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "WY",
+   "total": 70,
+   "name": "DonaldTrump"
+ },
+ {
+   "state": "AK",
+   "total": 440,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "AL",
+   "total": 76399,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "AR",
+   "total": 64868,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "AZ",
+   "total": 163400,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "CA",
+   "total": 1502043,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "CO",
+   "total": 71928,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "CT",
+   "total": 152410,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "DE",
+   "total": 36659,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "FL",
+   "total": 566603,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "GA",
+   "total": 214332,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "HI",
+   "total": 23531,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "IA",
+   "total": 69452,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "ID",
+   "total": 18640,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "IL",
+   "total": 975659,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "IN",
+   "total": 335256,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "KS",
+   "total": 26450,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "KY",
+   "total": 210626,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "LA",
+   "total": 72240,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "MA",
+   "total": 586716,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "MD",
+   "total": 281275,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "ME",
+   "total": 2201,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "MI",
+   "total": 595222,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "MO",
+   "total": 309071,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "MS",
+   "total": 36348,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "MT",
+   "total": 63168,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "NC",
+   "total": 460316,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "ND",
+   "total": 253,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "NE",
+   "total": 19120,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "NH",
+   "total": 151584,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "NJ",
+   "total": 323259,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "NM",
+   "total": 103856,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "NV",
+   "total": 5641,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "NY",
+   "total": 763469,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "OH",
+   "total": 513549,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "OK",
+   "total": 174054,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "OR",
+   "total": 320746,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "PA",
+   "total": 719955,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "RI",
+   "total": 66720,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "SC",
+   "total": 95977,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "SD",
+   "total": 25958,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "TN",
+   "total": 120333,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "TX",
+   "total": 475561,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "UT",
+   "total": 61333,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "VA",
+   "total": 275507,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "VT",
+   "total": 115863,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "WA",
+   "total": 19159,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "WI",
+   "total": 567936,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "WV",
+   "total": 123860,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "WY",
+   "total": 156,
+   "name": "BernieSanders"
+ },
+ {
+   "state": "AK",
+   "total": 99,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "AL",
+   "total": 309928,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "AR",
+   "total": 144580,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "AZ",
+   "total": 235697,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "CA",
+   "total": 1940580,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "CO",
+   "total": 49256,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "CT",
+   "total": 170075,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "DE",
+   "total": 55950,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "FL",
+   "total": 1097400,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "GA",
+   "total": 543008,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "HI",
+   "total": 10127,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "IA",
+   "total": 69733,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "ID",
+   "total": 5065,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "IL",
+   "total": 1012175,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "IN",
+   "total": 303382,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "KS",
+   "total": 12593,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "KY",
+   "total": 212550,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "LA",
+   "total": 221615,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "MA",
+   "total": 603784,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "MD",
+   "total": 533247,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "ME",
+   "total": 1214,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "MI",
+   "total": 576795,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "MO",
+   "total": 310602,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "MS",
+   "total": 182447,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "MT",
+   "total": 55194,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "NC",
+   "total": 616383,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "ND",
+   "total": 101,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "NE",
+   "total": 14340,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "NH",
+   "total": 95252,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "NJ",
+   "total": 554237,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "NM",
+   "total": 110451,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "NV",
+   "total": 6296,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "NY",
+   "total": 1054083,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "OH",
+   "total": 679266,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "OK",
+   "total": 139338,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "OR",
+   "total": 251739,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "PA",
+   "total": 918689,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "RI",
+   "total": 52493,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "SC",
+   "total": 271514,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "SD",
+   "total": 27046,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "TN",
+   "total": 245304,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "TX",
+   "total": 935080,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "UT",
+   "total": 15666,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "VA",
+   "total": 503358,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "VT",
+   "total": 18335,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "WA",
+   "total": 7140,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "WI",
+   "total": 432767,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "WV",
+   "total": 86354,
+   "name": "HillaryClinton"
+ },
+ {
+   "state": "WY",
+   "total": 124,
+   "name": "HillaryClinton"
+ }
+]
