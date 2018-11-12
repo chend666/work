@@ -1,0 +1,492 @@
+[
+ {
+   "State": "Alabama",
+   "total": 371735,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Alaska",
+   "total": 7346,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Arizona",
+   "total": 249916,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Arkansas",
+   "total": 133144,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "California",
+   "total": 1174829,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Colorado",
+   "total": 0,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Connecticut",
+   "total": 123367,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Delaware",
+   "total": 42472,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Florida",
+   "total": 1077221,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Georgia",
+   "total": 501707,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Hawaii",
+   "total": 5677,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Idaho",
+   "total": 62478,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Illinois",
+   "total": 551464,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Indiana",
+   "total": 590460,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Iowa",
+   "total": 45419,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Kansas",
+   "total": 17062,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Kentucky",
+   "total": 82493,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Louisiana",
+   "total": 124818,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Maine",
+   "total": 0,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Maryland",
+   "total": 236623,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Massachusetts",
+   "total": 311313,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Michigan",
+   "total": 483751,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Mississippi",
+   "total": 191755,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Missouri",
+   "total": 382093,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Montana",
+   "total": 114056,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Nebraska",
+   "total": 121287,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Nevada",
+   "total": 34531,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "New Hampshire",
+   "total": 100406,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "New Jersey",
+   "total": 356697,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "New Mexico",
+   "total": 73530,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "New York",
+   "total": 524932,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "North Carolina",
+   "total": 458151,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "North Dakota",
+   "total": 0,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Ohio",
+   "total": 727585,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Oklahoma",
+   "total": 130141,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Oregon",
+   "total": 240804,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Pennsylvania",
+   "total": 892702,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Rhode Island",
+   "total": 39059,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "South Carolina",
+   "total": 239851,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "South Dakota",
+   "total": 44866,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Tennessee",
+   "total": 332702,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Texas",
+   "total": 757618,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Utah",
+   "total": 24864,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Vermont",
+   "total": 19968,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Virginia",
+   "total": 355960,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Washington",
+   "total": 403003,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "West Virginia",
+   "total": 156245,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Wisconsin",
+   "total": 386370,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Wyoming",
+   "total": 70,
+   "name": "DonaldTrump"
+ },
+ {
+   "State": "Alabama",
+   "total": 76399,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Alaska",
+   "total": 440,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Arizona",
+   "total": 163400,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Arkansas",
+   "total": 64868,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "California",
+   "total": 1502043,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Colorado",
+   "total": 71928,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Connecticut",
+   "total": 152410,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Delaware",
+   "total": 36659,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Florida",
+   "total": 566603,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Georgia",
+   "total": 214332,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Hawaii",
+   "total": 23531,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Idaho",
+   "total": 18640,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Illinois",
+   "total": 975659,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Indiana",
+   "total": 335256,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Iowa",
+   "total": 69452,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Kansas",
+   "total": 26450,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Kentucky",
+   "total": 210626,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Louisiana",
+   "total": 72240,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Maine",
+   "total": 2201,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Maryland",
+   "total": 281275,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Massachusetts",
+   "total": 586716,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Michigan",
+   "total": 595222,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Mississippi",
+   "total": 36348,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Missouri",
+   "total": 309071,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Montana",
+   "total": 63168,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Nebraska",
+   "total": 19120,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Nevada",
+   "total": 5641,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "New Hampshire",
+   "total": 151584,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "New Jersey",
+   "total": 323259,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "New Mexico",
+   "total": 103856,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "New York",
+   "total": 763469,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "North Carolina",
+   "total": 460316,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "North Dakota",
+   "total": 253,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Ohio",
+   "total": 513549,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Oklahoma",
+   "total": 174054,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Oregon",
+   "total": 320746,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Pennsylvania",
+   "total": 719955,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Rhode Island",
+   "total": 66720,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "South Carolina",
+   "total": 95977,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "South Dakota",
+   "total": 25958,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Tennessee",
+   "total": 120333,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Texas",
+   "total": 475561,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Utah",
+   "total": 61333,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Vermont",
+   "total": 115863,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Virginia",
+   "total": 275507,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Washington",
+   "total": 19159,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "West Virginia",
+   "total": 123860,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Wisconsin",
+   "total": 567936,
+   "name": "BernieSanders"
+ },
+ {
+   "State": "Wyoming",
+   "total": 156,
+   "name": "BernieSanders"
+ }
+]
